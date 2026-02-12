@@ -22,13 +22,7 @@ C++ • Data Structures & Algorithms • Learning Developer
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadhammydeen&show_icons=true&theme=github_dark" />
-</p>
-
----
 
 <p align="center">
   <i>Improving step by step.</i>
